@@ -27,7 +27,7 @@ When the app state changes, setState() triggers Flutter to rebuild only the affe
 
 ## Demo App
 
-A simple `Counter App` is used to demonstrate:
+A simple `The Laggy To-Do List` is used to demonstrate:
 
 - Stateful widgets
 
@@ -37,4 +37,4 @@ A simple `Counter App` is used to demonstrate:
 
 ## Conclusion
 
-Flutter’s reactive model and Dart’s simplicity make cross-platform app development faster, cleaner, and more efficient compared to traditional native approaches.
+Flutter’s reactive model and Dart’s simplicity make cross-platform app development faster, cleaner, and more efficient compared to traditional native approaches. And I have understood the use of Flutter.
